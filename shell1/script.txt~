@@ -1,0 +1,2 @@
+grep "comment" | grep "profile" |cut -c 44- | cut -d "<" -f 1 | sort -n |
+uniq -c | sort -n -r 
