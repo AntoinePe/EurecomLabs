@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Least Significant Bit}{2}
+\contentsline {subsection}{\numberline {1.1}Code and results}{2}
+\contentsline {subsection}{\numberline {1.2}Questions}{5}
+\contentsline {section}{\numberline {2}Least Significant Bit and Cyclic Redundancy Check}{5}
+\contentsline {subsection}{\numberline {2.1}Code and results}{5}
+\contentsline {subsection}{\numberline {2.2}Questions}{8}
+\contentsline {section}{\numberline {3}Least Significant Bit, Cyclic Redundancy Check and Self-Embedding}{9}
+\contentsline {subsection}{\numberline {3.1}Code and results}{9}
+\contentsline {subsection}{\numberline {3.2}Questions}{13}
+\contentsline {section}{\numberline {4}Comparison of the three methods}{13}
